@@ -53,3 +53,8 @@
    Параметр key используют при разработке достаточно редко.
    Keys сохраняют состояние при перемещении виджетов в дереве виджетов.
    Ключ управляет тем, как один виджет заменяет другой виджет в дереве.
+* Изображение 17: Fl17.png![Fl17](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок18_1.png?raw=true)
+* Изображение 18: Fl18.png![Fl18](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок18_2.png?raw=true)
+* Изображение 19: Fl19.png![Fl19](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок18_3.png?raw=true)
+* Изображение 20: Fl20.png![Fl20](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок19.png?raw=true)
+* Изображение 21: Fl21.png![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок20.png?raw=true)
