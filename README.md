@@ -29,6 +29,7 @@
 * Изображение 9: Fl9.png![Fl9](https://github.com/FinistFin/FlutterNew/blob/main/Fl9.png?raw=true)
 * Изображение 10: Fl10.png![Fl10](https://github.com/FinistFin/FlutterNew/blob/main/Fl10.png?raw=true)
 * Изображение 11: Fl11.png![Fl10](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок11.png?raw=true)
+  
   Задание 2.
 1. runApp
 2. MaterialApp
@@ -43,6 +44,7 @@
    * Изображение 14: Fl14.png![Fl14](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок15.png?raw=true)
    * Изображение 15: Fl15.png![Fl15](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок16.png?raw=true)
    * Изображение 16: Fl16.png![Fl16](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок17.png?raw=true)
+   
   Задание 3.
 1.  Для чего нужны key
 2.  UniqueKey
@@ -58,3 +60,20 @@
 * Изображение 19: Fl19.png![Fl19](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок18_3.png?raw=true)
 * Изображение 20: Fl20.png![Fl20](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок19.png?raw=true)
 * Изображение 21: Fl21.png![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок20.png?raw=true)
+
+  Задание 4. Навигация
+  1.  Layout Widgets
+  2.  Padding
+  3.  Align
+  4.  Center
+  5.  Container
+  6.  Row
+  7.  Column
+  8.  Expanded
+  9.  Stack
+  10.  ListView
+
+Самая простая форма навигации в Flutter — это использование виджета Navigator для перемещения экранов в стек и из него. см. ниже
+
+
+  
