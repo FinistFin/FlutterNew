@@ -28,3 +28,28 @@
 * Изображение 8: Fl8.png![Fl8](https://github.com/FinistFin/FlutterNew/blob/main/Fl8.png?raw=true)
 * Изображение 9: Fl9.png![Fl9](https://github.com/FinistFin/FlutterNew/blob/main/Fl9.png?raw=true)
 * Изображение 10: Fl10.png![Fl10](https://github.com/FinistFin/FlutterNew/blob/main/Fl10.png?raw=true)
+* Изображение 11: Fl11.png![Fl10](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок11.png?raw=true)
+  Задание 2.
+1. runApp
+2. MaterialApp
+3. Scaffold
+4. Типы виджетов
+5. Stateless Widget
+6. StatefulWidget
+7. Работа с Asset и Image
+8. Работа с Asset и Font
+   * Изображение 12: Fl12.png![Fl12](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок13.png?raw=true)
+   * Изображение 13: Fl13.png![Fl13](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок14.png?raw=true)
+   * Изображение 14: Fl14.png![Fl14](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок15.png?raw=true)
+   * Изображение 15: Fl15.png![Fl15](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок16.png?raw=true)
+   * Изображение 16: Fl16.png![Fl16](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок17.png?raw=true)
+  Задание 3.
+1.  Для чего нужны key
+2.  UniqueKey
+3.  ValueKey
+4.  ObjectKey
+5.  PageStorageKey
+6.  GlobalKey
+   Параметр key используют при разработке достаточно редко.
+   Keys сохраняют состояние при перемещении виджетов в дереве виджетов.
+   Ключ управляет тем, как один виджет заменяет другой виджет в дереве.
