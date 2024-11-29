@@ -75,5 +75,9 @@
 
 Самая простая форма навигации в Flutter — это использование виджета Navigator для перемещения экранов в стек и из него. см. ниже
 
-
+* Изображение 22: Fl22.png![Fl22](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок21.png?raw=true)
+* Изображение 23: Fl23.png![Fl23](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок22.png?raw=true)
+* Изображение 24: Fl24.png![Fl24](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок23.png?raw=true)
+* Изображение 25: Fl25.png![Fl25](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок24.png?raw=true)
+* Изображение 26: Fl26.png![Fl26](https://github.com/FinistFin/FlutterNew/blob/main/Рисунок25.png?raw=true)
   
