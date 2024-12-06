@@ -171,6 +171,7 @@ import 'package:http/http.dart' as http;
 * Изображение 67: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/46.png?raw=true)
 * Изображение 68: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/46.png?raw=true)
 * Изображение 69: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/48.png?raw=true)
+* Изображение 70: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/49.png?raw=true)
 
   Задание 9. Clean architecture
   
@@ -179,9 +180,8 @@ import 'package:http/http.dart' as http;
 2.	Domain. Реализует бизнес правила нашего приложения.
 3.	Data. Отвечает за реализацию доступа к данным.
   Ниже представлен пример использования трёх основных слоёв чистой архитектуры:
-* Изображение 70: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/49.png?raw=true)
 * Изображение 71: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/50.png?raw=true)
 * Изображение 72: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/51.png?raw=true)
 * Изображение 73: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/52.png?raw=true)
-
+* Изображение 74: ![Fl21](https://github.com/FinistFin/FlutterNew/blob/main/53.png?raw=true)
 
